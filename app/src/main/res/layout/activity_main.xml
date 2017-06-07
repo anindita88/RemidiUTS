@@ -11,7 +11,78 @@
     tools:context="xir4n05.remidiuts.telkomschid.remidiuts.MainActivity">
 
     <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Swipe View" />
+
+    <Button
+        android:id="@+id/swipe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="12dp"
+        android:text="Swipe" />
+
+    <Button
+        android:id="@+id/tabs"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/swipe"
+        android:layout_marginEnd="65dp"
+        android:layout_marginRight="65dp"
+        android:text="Tabs" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tabs"
+        android:layout_alignLeft="@+id/tabs"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/tabs"
+        android:text="Tabs View" />
+
+    <Button
+        android:id="@+id/spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/swipe"
+        android:layout_marginTop="86dp"
+        android:text="Spinner" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/swipe"
+        android:layout_marginTop="56dp"
+        android:text="ActionBarSpinner" />
+
+    <Button
+        android:id="@+id/drawer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/spinner"
+        android:layout_alignLeft="@+id/tabs"
+        android:layout_alignStart="@+id/tabs"
+        android:text="Navigation" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView3"
+        android:layout_alignBottom="@+id/textView3"
+        android:layout_alignLeft="@+id/drawer"
+        android:layout_alignStart="@+id/drawer"
+        android:text="Navigation Drawer" />
 </RelativeLayout>
