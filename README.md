@@ -7,9 +7,12 @@ NIS           :   4664/1383.070<br>
 Nama Sekolah  :   SMK Telkom Malang<br>
 
 
-![Screenshot] (https://github.com/anindita88/RecyclerView-3/blob/master/delet.png)<br>
-![Screenshot] (https://github.com/anindita88/RecyclerView-3/blob/master/deskripsi.png)<br>
-![Screenshot] (https://github.com/anindita88/RecyclerView-3/blob/master/edit.png)<br>
-![Screenshot] (https://github.com/anindita88/RecyclerView-3/blob/master/satu.png)<br>
-![Screenshot] (https://github.com/anindita88/RecyclerView-3/blob/master/tambah.png)<br>
-
+![Screenshot] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-31-04%5B1%5D.png)<br>
+![Screenshot] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-31-24.png)<br>
+![Screenshot] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-31-29.png)<br>
+![Screenshot] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-31-35.png)<br>
+![Screenshot] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-32-00.png)<br>
+![Screenshot] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-32-04.png)<br>
+![Screenshot] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-32-12.png)<br>
+![Screenshot] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-32-23.png)<br>
+![Screenshot] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-32-32.png)<br>
