@@ -6,7 +6,10 @@ No Urut       :   05<br>
 NIS           :   4664/1383.070<br>
 Nama Sekolah  :   SMK Telkom Malang<br>
 
-
+<p align="center">
+  <img src="https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-31-04%5B1%5D.png"/>
+  <img src="https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-31-24.png"/>
+</p>
 ![alt text] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-31-04%5B1%5D.png)<br>
 ![alt text] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-31-24.png)<br>
 ![alt text] (https://github.com/anindita88/RemidiUTS/blob/master/Screenshot_2017-06-08-15-31-29.png)<br>
