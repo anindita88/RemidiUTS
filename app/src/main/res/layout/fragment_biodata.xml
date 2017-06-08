@@ -43,8 +43,13 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="16dp"
         android:layout_marginLeft="16dp"
-        android:text="Alamat    : Sumberpucung Malang"
+        android:text="Alamat    : "
         android:textAppearance="@style/TextAppearance.AppCompat.Light.SearchResult.Subtitle" />
 
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginLeft="16dp"
+        android:text="  Jl. Danau Buyan G7-F8 Sawojajar, Malang" />
 </LinearLayout>

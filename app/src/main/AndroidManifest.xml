@@ -22,6 +22,14 @@
         <activity
             android:name=".TabsActivity"
             android:label="@string/title_activity_tabs"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ActionActivity"
+            android:label="@string/title_activity_action"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".DrawerActivity"
+            android:label="@string/title_activity_drawer"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
